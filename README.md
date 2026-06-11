@@ -1,4 +1,4 @@
-# 陈伯 · 思维操作系统 (ChenBo Perspective Skill)
+# 陈伯.skill
 
 > "我叫做陈伯，原名胡伯冰，抖音的天花板。"
 
